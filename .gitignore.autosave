@@ -1,6 +1,0 @@
-# .gitignore
-build-*/
-*.pro.user
-*.autosave
-*.o
-*.exe
